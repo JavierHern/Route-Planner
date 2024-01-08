@@ -1,5 +1,6 @@
 # Route Planning Project
 
+This route planner is developed in cpp and is using the OpenStreetMap for visualizing the A* Algorithm application.
 This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
